@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanFloresM
 - I’m a programmer jr, who know a little about C++, C#, python, java, CSS
-- i want to improve more in python and work with big data 
+- i want to improve more in python and work with big data its like my goal
 
 <!---
 RomanFloresM/RomanFloresM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
